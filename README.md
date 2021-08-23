@@ -1,0 +1,1 @@
+This project was created as part of my intership assignment. It aims at helping users organize their tasks and meet deadlines on time. The front and back ends are created on Visual Studios in C# language.
